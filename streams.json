@@ -1,4 +1,16 @@
 [
+                                                                                                                  {
+    "title": "Sony Max FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A,http://195.26.87.217/live.ts?channelId=185&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
+                                                                                                                {
+    "title": "Sony Sab FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A,http://195.26.87.217/live.ts?channelId=260&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
+                                                                                                                  {
+    "title": "Sony TV FHD",
+    "url": "http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A,http://195.26.87.217/live.ts?channelId=12356&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+},
                                                                                                                 {
     "title": "Zee Cafe HD",
     "url": "https://mhdtv.co.in/jio/stream.php?id=1319&e=.m3u8"
@@ -77,7 +89,7 @@
 },
                                                                                             {
     "title": "DD Punjabi",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=715&e=.m3u8"
+    "url": "https://mhdtv.co.in/jio/stream.php?id=715&e=.m3u8,https://otttv.co.in/nexgtv/live.php?id=87847961&e=.m3u8"
 },
                                                                                           {
     "title": "India News Gujarat",
@@ -265,11 +277,11 @@
   },
                                                           {
     "title": "DD Bharati",
-    "url": "https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934709/assetType/media/assetFileId/15074730/contextType/PLAYBACK/isAltUrl/False/a.m3u8"                                      
+    "url": "https://otttv.co.in/nexgtv/live.php?id=87241400&e=.m3u8"                                      
   },
                                                 {
     "title": "DD India",
-    "url": "https://yupplivegcp1.yuppcdn.net/140223/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1702045676~exp=1702049276~acl=!*/140223/smil:ddindiahd.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=ebfd990f0eeab87fd5a1d10ae78e9122793c1550c820d7eeb9c39790e450ea71&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=1"                                      
+    "url": "https://segmentsecmpkgsg.akamaized.net/out/v1/0a49b9662d3d452ea338978c7c03750f/index.m3u8?hdnts=st=1703348310~exp=1703351910~acl=!*/v1/0a49b9662d3d452ea338978c7c03750f/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=49c6f8893832425113e2b7e038bbcd61c1fbf6b332d435653c28945dde2a544c&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=1"                                      
   },
                                                       {
     "title": "iLOVE",
@@ -441,7 +453,7 @@
   },
                                     {
     "title": "Sony Max HD",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009247"
+    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009247,https://cdn-tv.co.in/sonyliv/index.php?id=1000009247"
   },
                                   {
     "title": "Sony SAB HD",
@@ -453,7 +465,7 @@
   },
                                     {
     "title": "Sony TV HD",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009246"
+    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009246,https://mhdtv.co.in/jio/stream.php?id=291&e=.m3u8"
   },
                                   {
     "title": "Sony Kal",

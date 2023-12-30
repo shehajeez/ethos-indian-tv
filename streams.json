@@ -1,4 +1,12 @@
 [
+                                                                                                                                                {
+    "title": "Star Gold HD",
+    "url": "https://mymhdtvworld.com/hot/live/1260000040/index.mpd"
+},
+                                                                                                                                              {
+    "title": "Bollywood 4U",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/3a979f5d-c549-48fb-9706-b6859364dca5/0.m3u8"
+},
                                                                                                                                             {
     "title": "DE: N-TV",
     "url": "http://195.26.87.217/live.ts?channelId=125832&uid=7435&deviceMac=00:1A:79:51:4B:3A"
@@ -86,6 +94,10 @@
                                                                                                                             {
     "title": "Zee Ganga",
     "url": "https://mhdtv.co.in/jio/stream.php?id=2761&e=.m3u8"
+},
+                                                                                            {
+    "title": "Sony Pix HD",
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009258&e=.m3u8,https://entezeetv.fun/oreo/live.php?id=3a90931b&e=.m3u8"
 },
                                                                                                                           {
     "title": "Sony Pix",
@@ -421,11 +433,11 @@
   },
                               {
     "title": "Sony Pal",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009273,https://mhdtv.co.in/jio/stream.php?id=474&e=.m3u8"                                      
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009273&e=.m3u8"                                      
   },
                             {
     "title": "Sony Wah",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009253,https://mhdtv.co.in/jio/stream.php?id=1393&e=.m3u8"                                      
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009253&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=1393&e=.m3u8"                                      
   },
                           {
     "title": "News 18 India",
@@ -497,27 +509,27 @@
   },
                                       {
     "title": "Sony Max 2",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000044878,https://mhdtv.co.in/jio/stream.php?id=483&e=.m3u8"
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000044878&e=.m3u8"
   },
                                       {
     "title": "Sony Max",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009249,https://mhdtv.co.in/jio/stream.php?id=289&e=.m3u8,https://cdn-tv.co.in/sonyliv/index.php?id=1000009249"
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009249&e=.m3u8,https://entezeetv.fun/oreo/live.php?id=41f6362d&e=.m3u8"
   },
                                     {
     "title": "Sony Max HD",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009247,https://cdn-tv.co.in/sonyliv/index.php?id=1000009247"
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009247&e=.m3u8"
   },
                                   {
     "title": "Sony SAB HD",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009248,https://mhdtv.co.in/jio/stream.php?id=471&e=.m3u8"
+    "url": "https://entezeetv.fun/oreo/live.php?id=a70ae685&e=.m3u8,https://cdn-tv.co.in/sonyliv/watch.php?id=1000009248&e=.m3u8"
   },
                                   {
     "title": "Sony TV",
-    "url": "https://tvs1.aynaott.com/SonySD/index.m3u8?hdnts=st=1701702818~exp=1701746018~acl=/*~data=45.61.146.183-WEB~hmac=3349aa6c62dc0aa4feb81d7011916f9fddf441e7e0f173e6890ebdf24027def1"
+    "url": "https://entezeetv.fun/oreo/live.php?id=5031b4d6&e=.m3u8"
   },
                                     {
     "title": "Sony TV HD",
-    "url": "https://cdn-tv.co.in/sonyliv/index.php?id=1000009246,https://mhdtv.co.in/jio/stream.php?id=291&e=.m3u8"
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009246&e=.m3u8"
   },
                                   {
     "title": "Sony Kal",
@@ -545,11 +557,11 @@
   },
                                   {
     "title": "Star Bharat HD",
-    "url": "https://supermaxtv.fun/hot/live/1260000031/index.mpd"
+    "url": "https://entezeetv.fun/oreo/live.php?id=b8839cf9&e=.m3u8,https://mymhdtvworld.com/hot/live/1260000031/index.mpd"
   },
                                 {
     "title": "Star Plus HD",
-    "url": "https://supermaxtv.fun/hot/live/1260000017/index.mpd,144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test"
+    "url": "https://mymhdtvworld.com/hot/live/1260000017/index.mpd"
   },
                               {
     "title": "Colors Cineplex Bollywood",
@@ -597,7 +609,7 @@
   },
         {
     "title": "Zee Classic",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+    "url": "=.https://mhdtv.co.in/jio/stream.php?id=1691&e=.m3u8,http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A"
   },
       {
     "title": "Zee News Punjabi",

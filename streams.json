@@ -59,18 +59,6 @@
     "title": "ZDF",
     "url": "http://195.26.87.217/live.ts?channelId=125735&uid=7435&deviceMac=00:1A:79:51:4B:3A"
 },
-                                                                                                                  {
-    "title": "Sony Max FHD",
-    "url": "http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A,http://195.26.87.217/live.ts?channelId=185&uid=7435&deviceMac=00:1A:79:51:4B:3A"
-},
-                                                                                                                {
-    "title": "Sony Sab FHD",
-    "url": "http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A,http://195.26.87.217/live.ts?channelId=260&uid=7435&deviceMac=00:1A:79:51:4B:3A"
-},
-                                                                                                                  {
-    "title": "Sony TV FHD",
-    "url": "http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A,http://195.26.87.217/live.ts?channelId=12356&uid=7435&deviceMac=00:1A:79:51:4B:3A"
-},
                                                                                                                 {
     "title": "Zee Cafe HD",
     "url": "https://mhdtv.co.in/jio/stream.php?id=1319&e=.m3u8"
@@ -529,7 +517,7 @@
   },
                                     {
     "title": "Sony TV HD",
-    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009246&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=291&e=.m3u8"
+    "url": "https://cdn-tv.co.in/sonyliv/watch.php?id=1000009246&e=.m3u8,https://mhdtv.co.in/jio/stream.php?id=291"
   },
                                   {
     "title": "Sony Kal",

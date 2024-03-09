@@ -5,6 +5,7 @@
 },
                                                                                                                                               {
     "title": "Bollywood 4U",
+
     "url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/3a979f5d-c549-48fb-9706-b6859364dca5/0.m3u8"
 },
                                                                                                                                             {
@@ -317,7 +318,8 @@
   },
                                                                   {
     "title": "Dhamaka Movies B4U",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=2776&e=.m3u8"                                      
+    "url": "https://mhdtv.co.in/jio/stream.m3u8?id=2776"
+                                      
   },
                                                                   {
     "title": "Chumbak TV",
@@ -386,12 +388,14 @@
                                       {
     "title": "Shemaroo Bollywood",
     "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb573b176570658984cb3666cef94482bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616769a86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46fe5375551ac5e3b54378eb85afe6b5bc7d35b967e28def8c0336a7e5b42ca5b0beca15aa4f9b40910890e1b80266cadcbd165b362f8fe2ecff5c66ce916c42ba04ad4b0d1b1e165e7a60db7646598522c4d3072898503fda1df420afb1b5ebf7e2449195be3e1d2969a8a4826313ed6c8b1c94bf001da8165b3683eb505d57881239e7ba208abe84feacad1ba171068f49109224fc19452b66516a9a84fdbdb1e428362026c6f580da448cd30242895b2e91196cf1c988cd3e4de593037da9849979cfdd6a1e0cd02ab2cc4c3fb8f2e0260574453d613f2c12dec20d32efc9553390a191fed88439ed78b0e7e3206c6a75bd71814f689dbd28f5e6a9a315b7ce172dc5d0a7483653e2cab7d8bef5606be2f04813a2ae81864d0309b9618b5f68bab5641f0b4a06ff075e6b906d38c738f642e5c04bcea6c12057b74deea691a233ba461e1c0c1f578190a8fa69ea6f69bdb7cec211572a274d9a0b3ee2b65/138/1280x720_2657019/index.m3u8"                                      
+
   },
                                     {
     "title": "B4U Movies",
-    "url": "https://mhdtv.co.in/jio/stream.php?id=182&e=.m3u8,https://livectv.phando.com/8004/playlist.m3u8"                                      
+    "url": "https://mhdtv.co.in/jio/stream.m3u8?id=182"                                      
   },
                                   {
+
     "title": "Zee Anmol",
     "url": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8"                                      
   },

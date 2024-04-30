@@ -2391,12 +2391,12 @@ http://195.26.87.217/live.ts?channelId=125829&uid=7435&deviceMac=00:1A:79:51:4B:
 http://195.26.87.217/live.ts?channelId=125830&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="DE: euronews" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c97d4e4c207813498a3e32202ddf3162.png" group-title="GERMAN \u27be NEWS" ,DE: euronews
 http://195.26.87.217/live.ts?channelId=125831&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="DE: euronews (Ethos)" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c97d4e4c207813498a3e32202ddf3162.png" group-title="GERMAN \u27be NEWS" ,DE: euronews
-https://www.youtube.com/euronewsde/live
+#EXTINF:-1 tvg-id="" tvg-name="DE: euronews1" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c97d4e4c207813498a3e32202ddf3162.png" group-title="GERMAN \u27be NEWS" ,DE: euronews1
+https://anym3u8player.com/youtube.php/id/6630d6bcdfe8d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: n-tv" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="GERMAN \u27be NEWS" ,DE: n-tv
 http://195.26.87.217/live.ts?channelId=125832&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="DE: n-tv (test ethos)" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="GERMAN \u27be NEWS" ,DE: n-tv
-https://pntvlive-a.akamaized.net/live/ntvhome/dash/ntvhome.mpd
+#EXTINF:-1 tvg-id="" tvg-name="DE: n-tv1" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/10e1afea70963e1ae54284ad3dfb8819.png" group-title="GERMAN \u27be NEWS" ,DE: n-tv1
+https://pntvlive-a.akamaized.net/live/ntvhome/hls/ntvhome.m3u8
 #EXTINF:-1 tvg-id="s" tvg-name="DE: Sky Sport News" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/273bc324c4c9c7d675c01d6b55aa82d6.png" group-title="GERMAN \u27be NEWS" ,DE: Sky Sport News
 http://195.26.87.217/live.ts?channelId=125833&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="DE: Tagesschau 24" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04fd1f475a08d228ab281a7010988ec0.png" group-title="GERMAN \u27be NEWS" ,DE: Tagesschau 24

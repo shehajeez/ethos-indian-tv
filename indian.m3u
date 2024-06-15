@@ -2383,6 +2383,8 @@ http://195.26.87.217/live.ts?channelId=125820&uid=7435&deviceMac=00:1A:79:51:4B:
 http://195.26.87.217/live.ts?channelId=125821&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="DE: DW Arabic" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/82a04a5f562bcfcfefcc0fc7dad72f50.png" group-title="GERMAN \u27be NEWS" ,DE: DW Arabic
 http://195.26.87.217/live.ts?channelId=125827&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="DE: EU SPORT SPIEL 2024" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/82a04a5f562bcfcfefcc0fc7dad72f50.png" group-title="GERMAN \u27be NEWS" ,DE: EU SPORT SPIEL 2024
+https://sportschau-event.ard-mcdn.de/sportschau/event01/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: DW Deutsch" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0bfde547a8bd903c5751e2fe274b4315.png" group-title="GERMAN \u27be NEWS" ,DE: DW Deutsch
 http://195.26.87.217/live.ts?channelId=125828&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="DE: DW English" tvg-link="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/98bab21f4712c616268c0f775265d20d.jpg" group-title="GERMAN \u27be NEWS" ,DE: DW English
